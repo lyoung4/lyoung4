@@ -2,13 +2,14 @@
 
 I'm Laci from New York, and I am a fresh computer science graduate from Ithaca College. I really enjoy programming and learning new things, so I am always up for a challenge. I have experience making mobile apps, creating and manipulating databases, webscraping, and much more. Check out my portfolio to see some of the cool things I have created so far! 
 
-# [Laci Young]
+# Laci Young
+![Dino Gif](https://github.com/lyoung4/lyoung4/blob/main/dino.gif)
 
-👋 Hello! I'm [Your Name], a passionate computer scientist with a keen interest in [specific areas of computer science, e.g., artificial intelligence, web development, software engineering].
+👋 Hello! I'm Laci, a passionate computer science graduate with a keen interest in software engineering, mobile applications, databases, and video games.
 
-🎓 I hold a [Your Degree] in [Your Major] from [Your University]. My academic journey has equipped me with a solid foundation in computer science principles and a knack for problem-solving.
+🎓 I hold a Bachelor's in Computer Science from Ithaca College. My academic journey has equipped me with a solid foundation in computer science principles and a knack for problem-solving.
 
-💼 Currently, I [Your Current Job/Role], where I [Briefly describe your main responsibilities and projects]. Prior to this, I gained valuable experience at [Previous Company/Institution] working on [Relevant Projects].
+💼 Currently, I am seeking a job where I can showcase my skills and contribute to a team, all while gaining more knowledge and experience
 
 ## 🔧 Skills
 
@@ -20,8 +21,11 @@ I'm Laci from New York, and I am a fresh computer science graduate from Ithaca C
 
 Here are some projects I've worked on:
 
-1. **[Project Name]** - Brief description of the project and your role.
-2. **[Project Name]** - Brief description of the project and your role.
+1. **UNO Game** - Brief description of the project and your role.
+2. **Porchfest Pro** - Brief description of the project and your role.
+3. **Wikipedia Scraper and "Women In Music" Study** - Brief description of the project and your role.
+4. **Money Management System** - Brief description of the project and your role.
+5. **Mario Game** - Brief description of the project and your role.
    [Add more projects as needed]
 
 ## 🌱 Learning
