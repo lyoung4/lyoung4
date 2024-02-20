@@ -13,7 +13,7 @@ I'm Laci from New York, and I am a fresh computer science graduate from Ithaca C
 
 ## 🔧 Skills
 
-- **Languages:** [List programming languages you are proficient in]
+- **Languages:** C++, Git, HTML, Java, JavaScript, mySQL, Python, React Native, Visual Studio
 - **Frameworks:** [List any frameworks or libraries you specialize in]
 - **Technologies:** [Highlight relevant technologies you've worked with]
 
